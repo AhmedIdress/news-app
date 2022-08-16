@@ -1,6 +1,6 @@
 # news
 
-A smoll app to fetching and view news with (category , country) filter and can save any news in local data to and view it. You can search about any word. data are represent in pagination as a 10 items in requset.
+A small app to fetching and view news with (category , country) filter and can save any news in local data to and view it. You can search about any word. data are represent in pagination as a 10 items in requset.
 
 ## what i have used in this project
 
